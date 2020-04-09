@@ -1,5 +1,5 @@
 # electron-express-seed
-Electron Express Seed
+Electron Express Seed to develop electron app using express server
 
 # Usage
 
