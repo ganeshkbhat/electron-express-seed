@@ -9,7 +9,7 @@ Run `npm install` in the folder
 
 Run `npm run electron`
 
-Includes Electron App needed to package Electron Packager as Development dependency
+Electron App needs Electron Packager to package as Development dependency
 
 ## Note:
 
